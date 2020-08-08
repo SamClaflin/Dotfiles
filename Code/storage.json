@@ -2,6 +2,7 @@
     "telemetry.machineId": "449db106833315c04ef7aa27e92ef46702c98a367d1d4f3542959c2a5562fa50",
     "openedPathsList": {
         "workspaces3": [
+            "file:///home/sam/Desktop/programs/Computing-2/data_structures",
             "file:///home/sam/Desktop/programs/Computing-2/labs/lab8",
             "file:///home/sam/Desktop/programs/Computing-2",
             "file:///home/sam",
@@ -45,7 +46,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -54,7 +56,18 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/sam/Desktop/programs/Computing-2/labs/lab8",
+                                        "fsPath": "/home/sam/Desktop/programs/Computing-2/data_structures",
+                                        "external": "file:///home/sam/Desktop/programs/Computing-2/data_structures",
+                                        "path": "/home/sam/Desktop/programs/Computing-2/data_structures",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/programs/Computing-2/data_structures"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/sam/Desktop/programs/Computing-2/labs/lab8",
                                         "path": "/home/sam/Desktop/programs/Computing-2/labs/lab8",
                                         "scheme": "file"
@@ -425,12 +438,12 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleMenuBar",
-                                    "label": "Show Menu &&Bar",
-                                    "checked": true
+                                    "label": "Show Menu &&Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "Show &&Side Bar"
+                                    "label": "Show &&Side Bar",
+                                    "checked": true
                                 },
                                 {
                                     "id": "workbench.action.toggleStatusbarVisibility",
@@ -624,7 +637,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -633,7 +647,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1508,14 +1523,14 @@
     "themeBackground": "#282c34",
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/sam/Desktop/programs/Computing-2/labs/lab8",
-            "backupPath": "/home/sam/.config/Code/Backups/d8888a9b0056fb2c9dbc74d4d3eed1a8",
+            "folder": "file:///home/sam/Desktop/programs/Computing-2/data_structures",
+            "backupPath": "/home/sam/.config/Code/Backups/bfb057d63d7ec75bc24a02b13b9f7266",
             "uiState": {
                 "mode": 1,
-                "x": 14,
-                "y": 14,
-                "width": 1892,
-                "height": 1024
+                "x": 44,
+                "y": 44,
+                "width": 1832,
+                "height": 964
             }
         },
         "openedWindows": []

@@ -232,6 +232,9 @@ bindsym XF86AudioPrev exec playerctl previous
 # Load Wallpaper
 exec_always "feh --bg-scale ~/.config/images/lighthouse.jpg"
 
+# Load Bluetooth
+exec_always blueman-applet
+
 # Lock the system
 bindsym $mod+shift+x exec i3lock --color=011716
 

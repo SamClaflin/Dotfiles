@@ -59,5 +59,7 @@
     "code-runner.runInTerminal": true,
     "files.exclude": {
         "**/*.o": true
-    }
+    },
+    "window.menuBarVisibility": "toggle",
+    "glassit.alpha": 230
 }
