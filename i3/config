@@ -235,8 +235,11 @@ exec_always "feh --bg-scale ~/.config/images/wolf.jpg"
 # Lock the system
 bindsym $mod+shift+x exec i3lock --color=011716
 
+# Open file manager
+bindsym $mod+Shift+f exec nautilus
+
 # Open Apps 
-exec "google-chrome"
+#exec "google-chrome"
 
 # Enable window opacity
 exec_always compton -f
@@ -247,4 +250,7 @@ for_window [class=".*"] border pixel 0
 # Gaps
 gaps inner 15
 gaps outer 30
+
+# Force Certain Windows to Float
+for_window [class="Nautilus"] floating enable
 
