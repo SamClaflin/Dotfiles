@@ -2,6 +2,7 @@
     "telemetry.machineId": "449db106833315c04ef7aa27e92ef46702c98a367d1d4f3542959c2a5562fa50",
     "openedPathsList": {
         "workspaces3": [
+            "file:///home/sam/Desktop/programs/Computing-2/data_structures/hash_tables",
             "file:///home/sam/Desktop/programs/Computing-2/data_structures",
             "file:///home/sam/Desktop/programs/Computing-2/labs/lab8",
             "file:///home/sam/Desktop/programs/Computing-2",
@@ -46,8 +47,7 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -56,7 +56,18 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/sam/Desktop/programs/Computing-2/data_structures",
+                                        "fsPath": "/home/sam/Desktop/programs/Computing-2/data_structures/hash_tables",
+                                        "external": "file:///home/sam/Desktop/programs/Computing-2/data_structures/hash_tables",
+                                        "path": "/home/sam/Desktop/programs/Computing-2/data_structures/hash_tables",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/programs/Computing-2/data_structures/hash_tables"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/sam/Desktop/programs/Computing-2/data_structures",
                                         "path": "/home/sam/Desktop/programs/Computing-2/data_structures",
                                         "scheme": "file"
@@ -171,8 +182,7 @@
                     },
                     {
                         "id": "workbench.action.files.saveAll",
-                        "label": "Save A&&ll",
-                        "enabled": false
+                        "label": "Save A&&ll"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -442,8 +452,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "Show &&Side Bar",
-                                    "checked": true
+                                    "label": "Show &&Side Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleStatusbarVisibility",
@@ -637,8 +646,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -647,8 +655,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1523,13 +1530,13 @@
     "themeBackground": "#282c34",
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/sam/Desktop/programs/Computing-2/data_structures",
-            "backupPath": "/home/sam/.config/Code/Backups/bfb057d63d7ec75bc24a02b13b9f7266",
+            "folder": "file:///home/sam/Desktop/programs/Computing-2/data_structures/hash_tables",
+            "backupPath": "/home/sam/.config/Code/Backups/59cbb108012820ddcd440592225adaf5",
             "uiState": {
                 "mode": 1,
                 "x": 44,
                 "y": 44,
-                "width": 1832,
+                "width": 909,
                 "height": 964
             }
         },

@@ -106,8 +106,8 @@ bindsym $mod+a focus parent
 
 # Define names for default workspaces for which we configure key bindings later on.
 # We use variables to avoid repeating the names in multiple places.
-set $ws1 "1	"
-set $ws2 "2	 "
+set $ws1 "1	 "
+set $ws2 "2	"
 set $ws3 "3	"
 set $ws4 "4	"
 set $ws5 "5	  "
@@ -142,7 +142,7 @@ bindsym $mod+Shift+9 move container to workspace $ws9
 bindsym $mod+Shift+0 move container to workspace $ws10
 
 # force applications into certain workspaces 
-assign [class="Google-chrome"] $ws1
+assign [class="Google-chrome"] $ws2
 assign [class="Code"] $ws3
 assign [class="Spotify"] $ws4
 assign [class="discord"] $ws5
