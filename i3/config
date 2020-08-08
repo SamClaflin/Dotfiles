@@ -232,6 +232,9 @@ bindsym XF86AudioPrev exec playerctl previous
 # Load Wallpaper
 exec_always "feh --bg-scale ~/.config/images/lighthouse.jpg"
 
+# Blur Wallpaper
+exec_always "~/.config/scripts/blurme"
+
 # Load Bluetooth
 exec_always blueman-applet
 
