@@ -126,7 +126,7 @@ export PATH="$HOME/.config/scripts:$PATH"
 export PATH="$HOME/spicetify-cli:$PATH"
 
 # Volume control function (AirPods)
-air-pods() {
+airpods() {
     pacmd set-sink-volume bluez_sink.80_82_23_C6_AD_A9.a2dp_sink $1
 }
 

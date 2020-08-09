@@ -1,0 +1,57 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="EditorBackSpace">
+        <ActionSummary times="74" last="1596945346580" />
+      </entry>
+      <entry key="EditorChooseLookupItemReplace">
+        <ActionSummary times="2" last="1596945225264" />
+      </entry>
+      <entry key="EditorDown">
+        <ActionSummary times="17" last="1596945345458" />
+      </entry>
+      <entry key="EditorEnter">
+        <ActionSummary times="34" last="1596945340127" />
+      </entry>
+      <entry key="EditorLeft">
+        <ActionSummary times="7" last="1596945241447" />
+      </entry>
+      <entry key="EditorRight">
+        <ActionSummary times="18" last="1596945329315" />
+      </entry>
+      <entry key="EditorStartNewLine">
+        <ActionSummary times="1" last="1596940247802" />
+      </entry>
+      <entry key="EditorUp">
+        <ActionSummary times="16" last="1596945339514" />
+      </entry>
+      <entry key="ExpandAllRegions">
+        <ActionSummary times="1" last="1596940161162" />
+      </entry>
+      <entry key="ExpandRegion">
+        <ActionSummary times="1" last="1596940159820" />
+      </entry>
+      <entry key="RunClass">
+        <ActionSummary times="1" last="1596940239203" />
+      </entry>
+      <entry key="SaveAll">
+        <ActionSummary times="2" last="1596945385556" />
+      </entry>
+      <entry key="ShowSettings">
+        <ActionSummary times="1" last="1596940194480" />
+      </entry>
+      <entry key="WelcomeScreen.OpenDirectoryProject">
+        <ActionSummary times="1" last="1596940090043" />
+      </entry>
+      <entry key="WelcomeScreen.Plugins">
+        <ActionSummary times="1" last="1596939854219" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+        <ActionSummary times="4" last="1596940296666" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$2">
+        <ActionSummary times="2" last="1596940022457" />
+      </entry>
+    </data>
+  </component>
+</application>

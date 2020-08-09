@@ -1,0 +1,1000 @@
+python3 brightness.py
+echo $PYTHONPATH
+python3
+vim .bashrc 
+touch .config/scripts/__init__.py
+python3 scripts/brightness.py
+python3 brightness.py
+vim .bashrc 
+source .bashrc 
+echo $PYTHONPATH
+python3 brightness.py
+source .bashrc 
+vim .bashrc 
+source .bashrc 
+echo $PYTHONPATH
+python3
+python3 brightness.py
+python
+echo $PYTHONPATH
+vim .bashrc 
+source .bashrc 
+echo $PATH
+python3 brightness.py
+vim .bashrc 
+source .bashrc 
+echo $PATH
+vim .bashrc 
+source .bashrc 
+echo $PATH
+python3
+vim .bashrc 
+source .bashrc 
+echo $PATH
+python3 brightness.py
+python3 scripts/brightness.py
+brightness.py
+sudo brightness.py
+brightness.py
+vim hello.py
+hello.py
+rm hello.py 
+python3 brightness.py
+cd .config/scripts/
+ls
+chmod u+x brightness.py 
+cd ../../
+brightness.py 
+brightness.py --up
+brightness.py --down
+vim .config/i3/config 
+notify-send hell
+vim .config/i3/config 
+brightness.py
+brightness.py --up
+brightness.py --down
+vim .config/i3/config 
+neofetch 
+neofetch --help
+neofetch --color
+nautilus
+vim .config/i3/config 
+nautilus
+vim .config/i3/config 
+neofetch --source .config/images/wolf.jpg 
+cd .config/
+ls
+cd neofetch/
+ls
+vim config.conf 
+neofetch --help
+vim .bashrc 
+ls
+cd .config/
+ls
+cd neofetch/
+ls
+cd ..
+mv ../Downloads/wolf.jpg .
+ls
+mkdir images
+mv wolf.jpg images/
+vim i3/config 
+sudo vim i3/i3blocks.conf 
+ls
+cd Slack/
+ls
+cd ..
+ls
+cd Co
+cd Code/
+ls
+cd ..
+vim .gitignore
+git status
+vim .gitignore 
+git status
+mkdir .fonts .themes
+ls
+git status
+ls -al
+rm -r .fonts .themes
+ls
+cp ../.bashrc .
+ls
+git status
+git remote add origin https://github.com/SamClaflin/Dotfiles.git
+ls
+git status
+git add -A
+vim README.md
+git add -A
+git commit -m "Initial commit"
+git push origin master 
+cf
+cd
+vim brightness.py
+python3 brightness.py 
+vim brightness.py
+python3 brightness.py 
+vim brightness.py 
+python3 brightness.py 
+vim brightness.py 
+python3 brightness.py 
+vim brightness.py 
+python3 brightness.py 
+vim brightness.py 
+python3 brightness.py 
+vim brightness.py 
+python3 brightness.py 
+vim brightness.py 
+python3 brightness.py 
+vim brightness.py 
+python3 brightness.py 
+xrandr --current
+vim brightness.py 
+python3 brightness.py 
+vim brightness.py 
+python3 brightness.py 
+vim brightness.py 
+python3 brightness.py 
+vim brightness.py 
+python3 brightness.py 
+vim brightness.py 
+python3 brightness.py 
+vim brightness.py 
+python3 brightness.py 
+vim brightness.py 
+python3 brightness.py 
+vim brightness.py 
+python3 brightness.py 
+vim brightness.py 
+python3 brightness.py 
+vim brightness.py 
+python3 brightness.py --down
+vim brightness.py 
+python3 brightness.py --down
+vim brightness.py 
+python3 brightness.py --down
+vim brightness.py 
+python3 brightness.py --down
+vim brightness.py 
+python3 brightness.py --down
+vim brightness.py 
+python3 brightness.py --down
+python3 brightness.py --up
+vim brightness.py 
+python3 brightness.py --up
+python3 brightness.py --down
+cd .config
+ls
+git status
+git add -A
+git commit -m "Created python script for mapping brightness control to keyboard keys"
+git push origin master 
+neofetch --ascii_distro Arch
+neofetch --ascii_distro Raspbian
+neofetch --ascii_distro LinuxMint
+neofetch --source wallpaper
+neofetch --source 'wallpaper
+neofetch --source 'wallpaper'
+neofetch --source
+neofetch --source images/wolf.jpg 
+neofetch --bar_char
+vim i3/config 
+cd .config/
+ls -al
+neofetch --batter_display bar
+neofetch --battery_display bar
+neofetch --bar-char 'total char' --battery_display bar
+5~~'
+feh --bg-scale Downloads/red_wallpaper.png 
+neofetch 
+rm Downloads/red_wallpaper.png 
+feh --bf-scale Downloads/ice_wallpaper.jpeg 
+feh --bg-scale Downloads/ice_wallpaper.jpeg 
+feh .config/images/wolf.jpg 
+feh --bg-scale .config/images/wolf.jpg 
+rm Downloads/ice_wallpaper.jpeg 
+feh --bg-scale Downloads/mountain
+feh --bg-scale .config/images/wolf.jpg 
+rm Downloads/mountains.jpg 
+neofetch
+tput colros
+tput colors
+echo $TERM
+$echo COLORTERM
+echo $COLORTERM
+sudo apt update && sudo apt upgrade -y
+libpulse
+pulseaudio
+sudo apt install libfftw3-dev libncursesw5-dev cmake
+sudo apt install libpulse-dev
+./install.sh
+git clone https://github.com/dpayne/cli-visualizer.git
+ls
+cd cli-visualizer/
+ls
+./install.sh 
+cd ..
+vis
+ls
+cd .config
+ls
+git status
+cd vis/
+ls
+vim config 
+vis
+cd .config/
+cd vis/
+ls
+cd colors/
+ls
+vim blue_grad
+ls
+cd ..
+vim config 
+vim colors/blue_grad 
+neofetch 
+neofetch
+neofetch 
+vis
+neofetch
+vis
+vim .bashrc 
+cd .config/
+ls
+ls -al
+cd scripts/
+ls
+cd ..
+git status
+.bashrc
+vim .bashrc
+ls -a
+ls
+nautilus .
+rm .bashrc 
+cp ../.bashrc .
+git status
+git add -A
+git commit -m "Configured colors
+git commit -m "Configured colors"
+git push origin master 
+vim .config/vis/config 
+cd .config/vis/
+ls
+cd colors/
+ls
+vim basic_colors 
+vim rainbow 
+cd ..
+vim config 
+cd colors/
+vim rgb
+cd ..
+vim config 
+vim colors/red_grad
+vim colors/
+vim config 
+cd ..
+git status
+git add -A
+git commit -m "Added CLI audio visualizer"
+git push origin master 
+cd ../Downloads/
+ls
+rm *.xz *.gz *.zip 
+ls
+cd ..
+ls
+rm -r cli-visualizer/
+neofetch --cpu_temp
+cd .config/neofetch/
+ls
+vim config.conf 
+neofetch 
+vim config.conf 
+neofetch 
+vim config.conf 
+neofetch 
+vim config.conf 
+neofetch 
+vim config.conf 
+neofetch 
+vim config.conf 
+neofetch 
+vim config.conf 
+neofetch 
+vim config.conf 
+neofetch 
+vim config.conf 
+neofetch 
+vim config.conf 
+neofetch 
+vim config.conf 
+neofetch 
+vim config.conf 
+neofetch 
+vim config.conf 
+neofetch 
+vim config.conf 
+neofetch 
+vim config.conf 
+neofetch 
+vim config.conf 
+neofetch 
+vim config.conf 
+neofetch 
+vim config.conf 
+neofetch 
+vim config.conf 
+neofetch 
+vim config.conf 
+neofetch 
+vim config.conf 
+neofetch 
+vim config.conf 
+neofetch 
+vim config.conf 
+cd
+feh --bg-scale Downloads/deer.jpg 
+vim test.py
+ls
+vim .config/neofetch/config.conf 
+feh --bg-scale Downloads/lighthouse.jpg 
+rm Downloads/deer.jpg 
+mv Downloads/lighthouse.jpg .config/images/
+vim .config/i3/config 
+vim .config/neofetch/config.conf 
+neofetch 
+tty-clock
+sudo apt install tty-clock
+vim .bashrc 
+cd .config/
+ls
+cd ..
+vim .bashrc 
+cd .config/
+ls
+cd ..
+vim .bashrc 
+vim .config/
+cd .config/
+cd ..
+vim .bashrc 
+cd .config/
+rm .bashrc 
+cp ../.bashrc .
+git add -A
+git commit -m "Added support for git branch visualization"
+git push origin master 
+cd
+vis
+neofetch 
+vim .config/neofetch/config.conf 
+neofetch 
+cd .config/
+vim .bashrc 
+cd .config/
+vis
+tty-clock
+tty-clock -R
+tty-clock
+bluemna
+blueman
+blueman-applet
+sudo apt install blueman
+blueman
+blueman-applet 
+vim .config/i3/config 
+sudo vim ../../etc/bluetooth/main.conf 
+sudo /etc/init.d/bluetooth restart 
+sudo vim ../../etc/bluetooth/main.conf 
+sudo apt install bluez
+sudo systemctl restart bluetooth
+module
+load
+module-switch-on-connect
+gnome-control-center 
+pacmd
+pacmd list-sources
+pacmd output
+pacmd list-sinks
+sudo vim /etc/pulse/default.pa 
+sudo vim /etc/bluetooth/main.conf 
+pacmd load-module module-switch-on-connect
+sudo vim /etc/pulse/default.pa 
+rofi -dump-config
+rofi -show run -modi run -location 1 -width 100  -lines 2 -line-margin 0 -line-padding 1  -separator-style none -font "mono 10" -columns 9 -bw 0  -disable-history  -hide-scrollbar  -color-window "#222222, #222222, #b1b4b3"  -color-normal "#222222, #b1b4b3, #222222, #005577, #b1b4b3"  -color-active "#222222, #b1b4b3, #222222, #007763, #b1b4b3"  -color-urgent "#222222, #b1b4b3, #222222, #77003d, #b1b4b3"  -kb-row-select "Tab" -kb-row-tab ""
+rofi-theme-selector
+vis
+sudo apt install wmctrl
+sudo apt install imagemagick
+git clone https://github.com/ganifladi/blurme.git
+mv blurme/blurme .config/scripts/
+rm -r blurme/
+nautilus .
+cd .config/scripts/
+ls
+cd ..
+sudo chmod +x scripts/blurme 
+scripts/blurme 
+vim i3/config 
+vim .config/i3/config 
+vim i3/config 
+vim .config/i3/config 
+~/.config/scripts/blurme 
+~/.config/scripts/blurme &
+vim .config/i3/config 
+sudo apt install spicetify
+sudo apt install Spicetify-cli
+curl
+sudo apt install curl
+curl -fsSL https://raw.githubusercontent.com/khanhas/spicetify-cli/master/install.sh | sh
+spicetify
+spicetify-cli
+~/spicetify-cli/
+~/spicetify-cli/spicetify 
+spicetify
+ls
+mv spicetify-cli/ .config/
+cd .config/
+mv spicetify-cli/ ..
+cd .conf
+ls
+git status
+cd spicetify/
+ls
+cd ..
+cd
+ls
+vim .bashrc 
+source .bashrc 
+spicetify
+spicetify -h
+spicetify apply
+vim .config/spicetify/config.ini 
+spicetify 
+spicetify apply
+cd ~/snap/bin/spotify
+cd snap/
+ls
+cd ..
+vim .config/spicetify/config.ini 
+spicetify apply
+cd ~/snap/spotify/
+ls
+cd
+vim .config/spicetify/config.ini 
+spicetify apply
+vim .config/spicetify/config.ini 
+ls snap/spotify/
+cd snap/spotify/common/
+ls
+cd ..
+cd 41/
+ls
+cd ..
+cd current
+ls
+cd ..
+cd /usr/bin/
+ls
+cd
+sudo apt install spotify
+sudo apt install spotify-client
+snap install spotify
+sudo snap install spotify
+cd /var/lib/snapd/
+ls
+cd desktop/
+ls
+cd applications/
+ls
+cd ..
+ls
+cd lib
+ls
+cd ..
+cd snaps/
+ls
+cd ..
+ls
+cd
+vim .config/spicetify/config.ini 
+spicetify
+spicetify apply
+cd /usr/bin/
+ls
+cd ..
+ls
+cd lib
+ls
+cd snapd/
+ls
+sudo snap remove spotify 
+dpkg
+cd ~/Downloads/
+ls
+dpkg -i spotify-client_1.1.26.501.gbe11e53b-15_amd64.deb 
+sudo dpkg -i spotify-client_1.1.26.501.gbe11e53b-15_amd64.deb 
+sudo apt install libgconf-2-4
+sudo apt --fix-broken install
+spotify 
+ls
+rm spotify-client_1.1.26.501.gbe11e53b-15_amd64.deb 
+spotify 
+sudo chmod a+wr /usr/share/spotify
+sudo chmod a+wr /usr/share/spotify/Apps -R
+spicetify 
+spicetify backup apply enable-devtool
+which spotify 
+cd
+vim .config/spicetify/config.ini 
+which spotify 
+spicetify backup apply enable-devtool
+vim .config/spicetify/config.ini 
+spicetify backup apply enable-devtool
+cd .config/spicetify/
+ls
+cd Themes/
+ls
+cd ..
+cd CustomApps/
+ls
+cd ..
+cd Ext
+cd Extensions/
+ls
+cd ..
+vim config.ini 
+cd Themes/
+mkdir ArcDark
+vim color.ini
+vim user.css
+ls
+mv color.ini ArcDark/
+mv user.css ArcDark/
+ls
+spicetify config current_theme ArcDark
+spicetify apply
+spotify 
+xprop
+cd /usr/bin/spotify
+cd /usr/bin/
+ls
+cd spotify
+cd 
+rm -r .config/spicetify/
+spicetify
+cd .config/spicetify/
+ls
+vim config.ini 
+spicetify backup apply enable-devtool
+ls
+git clone https://github.com/morpheusthewhite/spicetify-themes.git
+cd spicetify-themes/
+ls
+mv */ ../Themes/
+ls
+cd ../Themes/
+ls
+cd 
+spicetify conifg color_scheme Arc-Dark
+spicetify conifg current_theme Arc-Dark
+spicetify current_theme
+spicetify -h
+vim .config/spicetify/config.ini 
+spicetify apply
+cd .config/spicetify/
+cd Themes/
+ls
+spicetify --help
+spicetify path
+spicetify config
+cd ..
+vim config.ini 
+cd
+spicetify apply
+vim .config/i3/config 
+cd .config/spicetify/Themes/Arc-Dark/
+ls
+vim color.ini 
+vim user.css 
+vim color.ini 
+neofetch 
+tty-clock 
+vis
+cd Desktop/programs/Computing-2/
+ls
+cd data_structures/
+ls
+code .
+vis
+cd
+cd .config/
+ls
+rm .bashrc 
+cp ../.bashrc .
+cp /etc/pulse/default.pa .
+cp /etc/bluetooth/main.conf .
+git status
+vim .gitignore 
+git status
+vim .gitignore 
+git status
+vim .gitignore 
+git status
+vim .gitignore 
+git status
+git add -A
+git commit -m "Added bluetooth configuration"
+git push origin master 
+notify-send hello
+ls
+cd update-notifier/
+ls
+cd ..
+notify-osd
+notify
+sudo apt install notifyosdconfig
+git status
+vim .gitignore 
+git status
+vim .gitignore 
+git status
+git add -A
+git commit -m "Applied theme to Rofi"
+git push origin master 
+git status
+git add -A
+git commit -m "Added wallpaper blur"
+git push origin master 
+cd
+spotify 
+which spotify 
+cd .config/
+git status
+git add -A
+git rm -r --cached
+git rm --cached
+git rm --cached spicetify/spicetify-themes/
+git status
+cd spicetify/
+rm -r spicetify-themes/
+cd ..
+git add -A
+git status
+git commit -m "Added spicetify"
+git push origin master 
+vim spicetify/config.ini 
+cd spicetify/Themes/
+ls
+cd
+spicetify apply
+spicetify-cli/spicetify apply
+vim .config/i3/config 
+sl
+/usr/bin/python3 /home/sam/.vscode/extensions/ms-python.python-2020.7.96456/pythonFiles/pyvsc-run-isolated.py pip install -U pylint --user
+vim .vimrc 
+sl
+vim .vimrc 
+vim test.py
+vim .vimrc 
+vim test.py
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+ls
+cd .vim/
+ls
+cd bundle/
+ls
+cd
+vim .vimrc 
+ls
+cd .config/
+git clone https://github.com/vim-python/python-syntax.git
+ls
+cd python-syntax/
+ls
+cd 
+vim .vimrc 
+vim test.py
+python3 test.py 
+rm test.py 
+vim .vimrc 
+vim test.c
+gcc test.c -o test && ./test
+vim test.c
+gcc test.c -o test && ./test
+rm test*
+cd .vim/
+ls
+cd bundle/
+ls
+cd 
+ls
+cd .config/
+ls
+rm -r python-syntax/
+git clone https://github.com/jiangmiao/auto-pairs.git
+cd auto-pairs/
+ls
+cd plugin/
+ls
+mv auto-pairs.vim ../../../.vim/bundle/
+cd ..
+rm -r auto
+rm -r auto-pairs/
+cd ..
+vim test.c
+gcc test.c -o test && ./test
+rm test*
+ls
+vim .vimrc 
+cd .vim/bundle/
+ls
+cd
+vim .vimrc 
+vim test.c
+rm test.c 
+vim .vimrc 
+vim test.c
+ls
+rm .vimrc 
+vim .vimrc
+vim .vimrc 
+vim test.py
+python3 test.py 
+rm test.py 
+vim test.c
+gcc test.c -o test && ./test
+rm test*
+make
+make clean
+make
+make clean
+make
+./main 
+make clean
+touch status.h
+make
+ls
+make clean
+make
+./main 
+valgrind ./main 
+valgrind --leak-check=full ./main 
+make clean
+make
+valgrind ./main 
+make clean
+make
+valgrind ./main 
+make
+./main 
+make
+./main 
+make clean
+make
+./main 
+make
+./main 
+make clean
+make
+./main 
+make
+./main 
+make clean
+make
+./main 
+make clean
+make
+./main 
+make clean
+make
+./main 
+make clean
+make
+./main 
+make clean
+make
+./main 
+maje
+make
+./main 
+make
+./main 
+make clean
+make
+./main 
+make
+./main 
+make clean
+make
+./main 
+make clean
+make
+./main 
+make clean
+make
+./main 
+make
+./main 
+make clean
+make
+./main 
+make
+./main 
+make clean
+make
+./main 
+git status
+make clean
+make
+./main 
+make clean
+make
+./main 
+make
+./main 
+make clean
+make
+./main 
+make clean
+make
+./main 
+make clean && make
+./main 
+tty-clock -t
+neofetch 
+cd Desktop/programs/Computing-2/data_structures/hash_tables/
+code .
+ls
+rm hash.py 
+touch main.c hash.c hash.h
+touch Makefile
+vim Makefile 
+make
+ls
+vim Makefile 
+make
+vim Makefile 
+make
+vim Makefile 
+make
+ls
+make
+ls
+make clean
+ls
+pacmd list-sinks
+pacmd set-sink-volume <bluez_sink.80_82_23_C6_AD_A9.a2dp_sink> 150
+pacmd set-sink-volume bluez_sink.80_82_23_C6_AD_A9.a2dp_sink 150
+pacmd set-sink-volume bluez_sink.80_82_23_C6_AD_A9.a2dp_sink 100
+pacmd set-sink-volume bluez_sink.80_82_23_C6_AD_A9.a2dp_sink 750
+pacmd set-sink-volume bluez_sink.80_82_23_C6_AD_A9.a2dp_sink 65536
+pacmd set-sink-volume bluez_sink.80_82_23_C6_AD_A9.a2dp_sink 80000
+pacmd list-sinks
+cd
+vim .bashrc 
+pacmd set-sink-volume bluez_sink.80_82_23_C6_AD_A9.a2dp_sink 65536
+vim .bashrc 
+source .bashrc
+air-pods 80000
+air-pods 60000
+air-pods 1000000
+air-pods 80000
+vim .bashrc 
+cd .config/
+cp ../.vimrc .
+rm .bashrc 
+cp ../.bashrc .
+git status
+vim .gitignore 
+git status
+git add -A
+git commit -m "Added vimrc and additional configurations"
+git push origin master 
+ls
+cd
+air-pods 60000
+cd Desktop/programs/Computing-2/data_structures/hash_tables/
+code .
+sar
+iostat
+cd ../../
+git status
+git add -A
+git commit -m "Implemented hash table data structure"
+git push origin master 
+rm ~/Downloads/mountain.jpeg 
+cp ~/.config/images/lighthouse.jpg ~/Pictures/Wallpapers/
+cd labs/
+ls
+cd lab7_part2
+code .
+cd 
+vim .config/i3/config 
+make clean
+make
+./hangman 
+valgrind ./hangman 
+make clean
+make clean
+make
+make clean
+make
+./
+./hangman 
+make clean
+make
+./hangman 
+make clean
+make
+./hangman 
+valgrind ./hangman 
+make clean
+make
+./hangman 
+valgrind ./hangman 
+make clean
+make
+./hangman 
+valgrind ./hangman 
+make clean
+make
+./hangman 
+make
+./hangman 
+valgrind ./hangman 
+air-pods 70000
+air-pods 80000
+air-pods 85000
+air-pods 60000
+air-pods 85000
+air-pods 95000
+air-pods 100000
+amixer
+amixer sset Master 60%,40%
+amixer sset Master 70%,30%
+amixer sset Master 50%,50%
+amixer 
+amixer sset Headphone 60%,30%
+amixer sset Headphone 60%,40%
+amixer sset Headphone 50%,50%
+amixer info
+amixer get
+amixer get AirPod
+amixer get AirPods
+air-pods 85000
+air-pods 65000
+vim .bashrc 
+source .bashrc 
+airpods 6000
+airpods 60000
+obs-studio 
+top
+htop
+iotop
+sudo apt install htop
+htop
+airpods 60000
+airpods 50000
+sudo apt update && sudo apt upgrade -y
+sudo snap install pycharm-community --classic
+pycharm-community 
+ls
+cd Desktop/programs/
+ls
+rm -r algorithms/ data_structures/
+ls
+mkdir python
+cd python/
+mkdir test_project
+cd test_project/
+virtualenv venv
+source venv/bin/activate
+touch main.py
+python3 main.py 

@@ -61,5 +61,5 @@
         "**/*.o": true
     },
     "window.menuBarVisibility": "toggle",
-    "glassit.alpha": 230
+    "glassit.alpha": 220
 }
