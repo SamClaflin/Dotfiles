@@ -40,7 +40,6 @@ Plug 'arcticicestudio/nord-vim'
 Plug 'cocopon/iceberg.vim'
 Plug 'vim-airline/vim-airline'
 Plug 'scrooloose/syntastic'
-Plug 'ycm-core/YouCompleteMe'
 
 call plug#end()
 
