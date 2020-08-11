@@ -3,10 +3,11 @@
     "openedPathsList": {
         "workspaces3": [
             "file:///home/sam/Desktop/programs/Computing-2/labs/lab7_part2",
+            "file:///home/sam/Desktop/programs/Computing-2/labs/lab8",
+            "file:///home/sam/Desktop/programs/Computing-2/lesson_code/lesson13",
             "file:///home/sam",
             "file:///home/sam/Desktop/programs/Computing-2/data_structures/hash_tables",
             "file:///home/sam/Desktop/programs/Computing-2/data_structures",
-            "file:///home/sam/Desktop/programs/Computing-2/labs/lab8",
             "file:///home/sam/Desktop/programs/Computing-2",
             "file:///home/sam/Desktop/programs/Computing-2/labs",
             "file:///home/sam/Desktop/programs/Computing-2/dailies/daily8",
@@ -48,7 +49,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -64,6 +66,28 @@
                                     },
                                     "enabled": true,
                                     "label": "~/Desktop/programs/Computing-2/labs/lab7_part2"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/sam/Desktop/programs/Computing-2/labs/lab8",
+                                        "path": "/home/sam/Desktop/programs/Computing-2/labs/lab8",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/programs/Computing-2/labs/lab8"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/sam/Desktop/programs/Computing-2/lesson_code/lesson13",
+                                        "path": "/home/sam/Desktop/programs/Computing-2/lesson_code/lesson13",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/programs/Computing-2/lesson_code/lesson13"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -97,17 +121,6 @@
                                     },
                                     "enabled": true,
                                     "label": "~/Desktop/programs/Computing-2/data_structures"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/sam/Desktop/programs/Computing-2/labs/lab8",
-                                        "path": "/home/sam/Desktop/programs/Computing-2/labs/lab8",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Desktop/programs/Computing-2/labs/lab8"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -1550,7 +1563,7 @@
                 "mode": 1,
                 "x": 44,
                 "y": 44,
-                "width": 1832,
+                "width": 1293,
                 "height": 964
             }
         },

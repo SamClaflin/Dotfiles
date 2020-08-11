@@ -145,6 +145,7 @@ bindsym $mod+Shift+0 move container to workspace $ws10
 assign [class="Google-chrome"] $ws2
 assign [class="Code"] $ws3
 assign [class="jetbrains-pycharm-ce"] $ws3
+assign [class="Sublime_text"] $ws3
 assign [class="Spotify"] $ws4
 assign [class="discord"] $ws5
 assign [class="Slack"] $ws5
@@ -260,4 +261,8 @@ gaps outer 30
 
 # Force Certain Windows to Float
 for_window [class="Nautilus"] floating enable
+for_window [class="Eog"] floating enable
+
+# Move workspace to other monitor
+bindsym $mod+m exec "i3 move workspace to output left" 
 

@@ -1,9 +1,8 @@
 {
     "python.pythonPath": "/usr/bin/python3",
     "C_Cpp.updateChannel": "Insiders",
-    "window.zoomLevel": 1,
+    "window.zoomLevel": 0,
     "editor.fontSize": 16,
-    "workbench.colorTheme": "Atom One Dark",
     "editor.fontFamily": "'Fira Code', 'Droid Sans Mono', 'Droid Sans Fallback', monospace, 'monospace'",
     "code-runner.executorMap": {
 
@@ -61,5 +60,6 @@
         "**/*.o": true
     },
     "window.menuBarVisibility": "toggle",
-    "glassit.alpha": 220
+    "glassit.alpha": 220,
+    "workbench.colorTheme": "Atom One Dark"
 }

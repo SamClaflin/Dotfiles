@@ -4,7 +4,7 @@
       <map>
         <entry key="$USER_HOME$/Desktop/programs/python/test_project">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1fqKJIejVqWRcPFVLWzRadk0t8t">
+            <RecentProjectMetaInfo projectWorkspaceId="1fqKJIejVqWRcPFVLWzRadk0t8t">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PC-202.6397.98" />
               <option name="buildTimestamp" value="1595865605199" />
@@ -14,10 +14,22 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/test_project">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1fxERG2otVa3cRi5eIWv69fHFKl">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-202.6397.98" />
+              <option name="buildTimestamp" value="1595865636005" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1597151334085" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/test_project" />
         <option value="$USER_HOME$/Desktop/programs/python/test_project" />
       </list>
     </option>

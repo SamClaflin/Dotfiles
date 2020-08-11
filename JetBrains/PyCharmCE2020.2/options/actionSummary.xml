@@ -1,29 +1,38 @@
 <application>
   <component name="ActionsLocalSummary">
     <data>
+      <entry key="$Undo">
+        <ActionSummary times="1" last="1597151444919" />
+      </entry>
       <entry key="EditorBackSpace">
-        <ActionSummary times="74" last="1596945346580" />
+        <ActionSummary times="122" last="1597151505379" />
       </entry>
       <entry key="EditorChooseLookupItemReplace">
-        <ActionSummary times="2" last="1596945225264" />
+        <ActionSummary times="10" last="1597151444056" />
       </entry>
       <entry key="EditorDown">
-        <ActionSummary times="17" last="1596945345458" />
+        <ActionSummary times="20" last="1597151437819" />
       </entry>
       <entry key="EditorEnter">
-        <ActionSummary times="34" last="1596945340127" />
+        <ActionSummary times="57" last="1597151510970" />
       </entry>
       <entry key="EditorLeft">
-        <ActionSummary times="7" last="1596945241447" />
+        <ActionSummary times="8" last="1597151363160" />
+      </entry>
+      <entry key="EditorLeftWithSelection">
+        <ActionSummary times="1" last="1597151359973" />
       </entry>
       <entry key="EditorRight">
-        <ActionSummary times="18" last="1596945329315" />
+        <ActionSummary times="26" last="1597151446738" />
       </entry>
       <entry key="EditorStartNewLine">
         <ActionSummary times="1" last="1596940247802" />
       </entry>
+      <entry key="EditorTab">
+        <ActionSummary times="1" last="1597151434395" />
+      </entry>
       <entry key="EditorUp">
-        <ActionSummary times="16" last="1596945339514" />
+        <ActionSummary times="17" last="1597151359842" />
       </entry>
       <entry key="ExpandAllRegions">
         <ActionSummary times="1" last="1596940161162" />
@@ -31,20 +40,29 @@
       <entry key="ExpandRegion">
         <ActionSummary times="1" last="1596940159820" />
       </entry>
+      <entry key="RenameElement">
+        <ActionSummary times="1" last="1597151454421" />
+      </entry>
+      <entry key="Run">
+        <ActionSummary times="4" last="1597151515196" />
+      </entry>
       <entry key="RunClass">
-        <ActionSummary times="1" last="1596940239203" />
+        <ActionSummary times="2" last="1597151463472" />
       </entry>
       <entry key="SaveAll">
-        <ActionSummary times="2" last="1596945385556" />
+        <ActionSummary times="6" last="1597151514644" />
       </entry>
       <entry key="ShowSettings">
         <ActionSummary times="1" last="1596940194480" />
       </entry>
       <entry key="WelcomeScreen.OpenDirectoryProject">
-        <ActionSummary times="1" last="1596940090043" />
+        <ActionSummary times="2" last="1597151321982" />
       </entry>
       <entry key="WelcomeScreen.Plugins">
         <ActionSummary times="1" last="1596939854219" />
+      </entry>
+      <entry key="com.intellij.ide.ReopenProjectAction">
+        <ActionSummary times="1" last="1597151272261" />
       </entry>
       <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
         <ActionSummary times="4" last="1596940296666" />

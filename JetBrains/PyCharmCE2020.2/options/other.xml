@@ -13,14 +13,14 @@
     <property name="appcds.runOnSecondStart" value="PC-202.6397.98-1a2fc9bdaab1c452bb89bc9e2eca978ba582ed47c4ea956d1f1b7f2f36e1e28c" />
     <property name="ask.about.ctrl.y.shortcut" value="true" />
     <property name="experimentalFeature.terminal.shell.command.handling" value="false" />
-    <property name="file.chooser.recent.files" value="$USER_HOME$/Desktop/programs/python/test_project" />
-    <property name="file.gist.reindex.count" value="1701" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/test_project&#10;/home/sam/Desktop/programs/python/test_project" />
+    <property name="file.gist.reindex.count" value="2747" />
     <property name="fileTypeChangedCounter" value="1" />
     <property name="ide.memory.adjusted" value="true" />
-    <property name="lastSeenTip" value="neue-QuickDocInSuggestionList.html" />
-    <property name="lastTimeTipsWereShown" value="1596940115692" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/programs/python/test_project" />
-    <property name="seenTips" value="neue-QuickDocInSuggestionList.html" />
+    <property name="lastSeenTip" value="neue-LiveTemplatesRestore.html" />
+    <property name="lastTimeTipsWereShown" value="1597151339610" />
+    <property name="last_opened_file_path" value="$USER_HOME$/test_project" />
+    <property name="seenTips" value="neue-QuickDocInSuggestionList.html,neue-LiveTemplatesRestore.html" />
     <property name="tasks.pass.word.conversion.enforced" value="true" />
   </component>
 </application>

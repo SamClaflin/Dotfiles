@@ -1,9 +1,9 @@
 <application>
   <component name="DimensionService">
-    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1458" height="255" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1458" height="255" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1458" height="255" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1458" height="255" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1805" height="255" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1805" height="255" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1805" height="255" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1805" height="255" />
   </component>
   <component name="WindowManager">
     <frame x="965" y="18" width="913" height="992" />
@@ -21,13 +21,15 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="551" y="16" width="804" height="710" key="#Plugins/0.0.1920.1080" timestamp="1596940020690" />
-    <state x="739" y="130" width="428" height="482" key="FileChooserDialogImpl" timestamp="1596940109013">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="2657" y="104" width="428" height="482" key="FileChooserDialogImpl" timestamp="1597151332983">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="739" y="130" width="428" height="482" key="FileChooserDialogImpl/0.0.1920.1080" timestamp="1596940109013" />
-    <state x="958" y="398" key="WELCOME_SCREEN" timestamp="1596940030013">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="2657" y="104" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1080" timestamp="1597151332983" />
+    <state x="2878" y="398" key="WELCOME_SCREEN" timestamp="1597151276876">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="958" y="398" key="WELCOME_SCREEN/0.0.1920.1080" timestamp="1596940030013" />
+    <state x="2878" y="398" key="WELCOME_SCREEN/1920.0.1920.1080/0.0.1920.1080" timestamp="1597151276876" />
   </component>
 </application>
